@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   if (button && output) {
     button.addEventListener('click', () => {
-      output.textContent = 'Button clicked!';
+      output.textContent = 'Button fucked!';
     });
   }
 });
